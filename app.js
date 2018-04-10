@@ -53,3 +53,7 @@ function getCookie(nombreCookie){
 }
 
 getCookie("correo");
+
+
+
+
