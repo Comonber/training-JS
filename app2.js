@@ -14,7 +14,7 @@ var carro ={
 var carro2 ={
     color:"Rojo",
     marca:"Toyota"
-}
+};
 
 console.log( coche.imprimir() ); // Mazda-Blanco
 
